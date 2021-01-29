@@ -1,2 +1,4 @@
 test create content
 first
+slave first
+slave second
